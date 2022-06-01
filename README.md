@@ -1,4 +1,4 @@
-# LES CATS FANTASTIQUES
+# LES CATS FANTASTIQUES 🐾
 
 ## Demo
 
@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/98356784/171506017-47616e90-d3d9-47ec-
 
 This is a fictional Pet Shop named "LES CATS FANTASTIQUES", specialized in cats. 🐱
 
-- Navbar with **hover effect** on menu items, **Dropdown menu** and **Search button**.
+- **Navbar** with **hover effect** on menu items, **Dropdown menu** and **Search button**.
 - **Carousel** with opacity overlay effect on images.
 - **Color gradient** in background.
 - **Logo** and **Icon** for the fictional brand, created with Photoshop. 
@@ -25,3 +25,5 @@ Link to the demo : https://juju6x7.github.io/les-cats-fantastiques/
 
 ### Screenshot
 <img src="https://user-images.githubusercontent.com/98356784/171395562-d44bf8ce-7aac-4b77-be1c-508f8df295de.png" width="600">
+
+**++ Font logo** : 'Cute Meow' found in Dafont -> https://www.dafont.com/fr/cute-meow.font
