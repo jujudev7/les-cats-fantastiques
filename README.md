@@ -7,10 +7,10 @@ https://user-images.githubusercontent.com/98356784/171506017-47616e90-d3d9-47ec-
 ## About The Project
 
 
-This is a fictional Pet Shop named "LES CATS FANTASTIQUES", specialized in cats. 🐱
+This is a fictional Pet Shop Website named "LES CATS FANTASTIQUES", specialized in cats. 🐱
 
 - **Navbar** with **hover effect** on menu items, **Dropdown menu** and **Search button**.
-- **Carousel** with opacity overlay effect on images.
+- **Carousel Slider** with opacity overlay effect on images.
 - **Color gradient** in background.
 - **Logo** and **Icon** for the fictional brand, created with Photoshop. 
 
