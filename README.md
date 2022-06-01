@@ -14,12 +14,12 @@ This is a fictional Pet Shop named "LES CATS FANTASTIQUES", specialized in cats.
 - **Color gradient** in background.
 - **Logo** and **Icon** for the fictional brand, created with Photoshop. 
 
-Link to the demo :
+Link to the demo : https://juju6x7.github.io/les-cats-fantastiques/
 
 ### Built with
 
 * VS Code 💻
-* in Bootstrap <img src="https://user-images.githubusercontent.com/98356784/171507122-5097a431-a752-4485-9f62-58469e57748d.png" width="16">
+* in Bootstrap <img src="https://user-images.githubusercontent.com/98356784/171507122-5097a431-a752-4485-9f62-58469e57748d.png" width="24">
 * in CSS <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" width="24">
 
 
