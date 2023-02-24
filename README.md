@@ -14,7 +14,7 @@ This is a fictional Pet Shop Website named "LES CATS FANTASTIQUES", specialized 
 - **Color gradient** in background.
 - **Logo** and **Icon** for the fictional brand, created with Photoshop. 
 
-Link to the demo : https://juju6x7.github.io/les-cats-fantastiques/
+Link to the demo : https://jujudev7.github.io/les-cats-fantastiques/
 
 ### Built with
 
